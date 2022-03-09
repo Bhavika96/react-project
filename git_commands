@@ -1,0 +1,9 @@
+git init - it is used to initialize a new repository
+git remote -v - to check the remote repository where v stands for verbos
+git remote add origin & the link of the project - to create a new remote repository in the local.
+git status - to check the status of the repository if any files are there.
+git add . - to track all the files or staged the files.
+git rm --cached -r - to remove all the tracked files.
+git commit -m "reason to commit" where m stands for message.
+git push -u origin master - u stands for universal as it creates a new master branch but we can receive some error
+git pull - to pull all the files from the git repo.
